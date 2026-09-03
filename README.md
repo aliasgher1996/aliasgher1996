@@ -10,4 +10,4 @@
 
 🇰🇷 Previously Research Assistant at the Core Research Institute of Intelligent Robots, **Jeonbuk National University**, South Korea
 
-📚 M.S. Electronic Engineering, JBNU · B.Tech. Computer Science, Islamic University of Science and Technology, India
+📚 M.S. Electronic Engineering, Jeonbuk National University, 2024 · B.Tech. Computer Science & Engineering, Islamic University of Science and Technology, 2020
