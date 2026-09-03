@@ -2,7 +2,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-asgher1996@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asgher1996@gmail.com)
 
-🔬 Interested in hyperspectral image reconstruction, agricultural imaging, and vision-language models
+🔬 AI for real-world imaging: medical diagnostics and agriculture
+
+🧠 Segmentation · Classification · Detection · Vision-language models · Foundation models
 
 🎓 Research Assistant at **TU Chemnitz**, Germany 
 
