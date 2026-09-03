@@ -1,6 +1,6 @@
 ## Syed Ali Asgher
 
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-asgher1996@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asgher1996@gmail.com)
 
 🔬 Interested in hyperspectral image reconstruction, agricultural imaging, and vision-language models
 
