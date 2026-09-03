@@ -1,7 +1,10 @@
-👋 Hi, I’m SYED ALI ASGHER
+**Syed Ali Asgher**
 
-💼 Working as a Research Assistant with Core Research Institute of Intelligent Robots at JBNU  
-👨‍🎓 Pursuing Master's Degree in Electronic Engineering from Jeonbuk National University  
-👨‍🎓 Bachelor Graduate from Islamic University of Science and Technology, India  
-📚 Bachelor of Computer Science Engineering (2016-2020)  
-📚 Concentrations in Machine Learning, Deep Learning, and Computer Vision
+Research Assistant, Core Research Institute of Intelligent Robots,
+Jeonbuk National University, South Korea.
+M.S. student in Electronic Engineering (JBNU).
+
+Working on deep learning for image segmentation and classification,
+with applications in medical and agricultural imaging.
+
+Email: you@example.com · [LinkedIn](https://linkedin.com/in/your-handle) · [Google Scholar](https://scholar.google.com/...)
