@@ -1,5 +1,4 @@
-## Syed Ali Asgher
-
+## Hi, I'm Syed Ali Asgher 👋
 [![Gmail](https://img.shields.io/badge/Gmail-asgher1996@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asgher1996@gmail.com)
 
 🔬 AI for real-world imaging: medical diagnostics and agriculture
