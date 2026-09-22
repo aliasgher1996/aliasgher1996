@@ -1,5 +1,8 @@
 ## Hi, I'm Syed Ali Asgher 👋
-[![Gmail](https://img.shields.io/badge/Gmail-asgher1996@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asgher1996@gmail.com)
+I'm a research assistant at **TU Chemnitz**, Germany, working on computer vision for agriculture and medical imaging. I build detection, segmentation and classification pipelines that turn ordinary RGB images into measurements of plant and patient health.
+
+[![Email](https://img.shields.io/badge/Email-asgher1996@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asgher1996@gmail.com)
+
 
 🔬 AI for real-world imaging: medical diagnostics and agriculture
 
